@@ -1,1 +1,8 @@
-cmd_launch.cmd 
+cmd_launch.cmd
+
+__pycache__/
+
+# Pycharm 
+.idea/**/workspace.xml
+.idea/*.iml
+.idea/modules.xml 
